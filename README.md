@@ -26,15 +26,15 @@ the ability to extract meaningful insights using SQL.
 
 Key Business Questions Solved
 
-Top 3 customers who generated the highest total sales in each state
-Find the second most profitable category
-Rank sub-categories within each category by sales
-Find customers whose total sales are higher than the average total sales of all customers.
-Find the category that generated the highest total sales in each state.
-Find the categories that met or exceeded their sales targets Month wise.
-Identify orders where profit is negative
-Identify cities starting with the letter "C" where total sales exceed ₹3000 for the categories Electronics or Furniture
-The average order value (AOV) per customer
-What is the monthly sales trend?
+Top 3 customers who generated the highest total sales in each state |
+Find the second most profitable category |
+Rank sub-categories within each category by sales |
+Find customers whose total sales are higher than the average total sales of all customers. |
+Find the category that generated the highest total sales in each state. |
+Find the categories that met or exceeded their sales targets Month wise. |
+Identify orders where profit is negative |
+Identify cities starting with the letter "C" where total sales exceed ₹3000 for the categories Electronics or Furniture |
+The average order value (AOV) per customer |
+What is the monthly sales trend? |
 
 Many more questions. (Total 25 questions solved)
