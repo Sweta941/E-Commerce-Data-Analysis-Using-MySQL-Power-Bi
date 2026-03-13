@@ -38,3 +38,10 @@ The average order value (AOV) per customer |
 What is the monthly sales trend? |
 
 Many more questions. (Total 25 questions solved)
+
+
+
+
+
+
+
