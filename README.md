@@ -95,8 +95,6 @@ The project answers **25 analytical questions** across multiple business dimensi
 ✅ String Functions — LIKE with pattern matching
 ```
 
----
-
 ## 📁 Project Structure
 
 ```
