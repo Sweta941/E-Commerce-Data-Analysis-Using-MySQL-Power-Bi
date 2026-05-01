@@ -168,7 +168,6 @@ Data Analyst | Data Science Portfolio Project
 ![image alt](https://github.com/Sweta941/E-Commerce-Data-Analysis-Using-MySQL-/blob/31bf2074ee3ceed8b275cabe231753768ce41953/Screenshot%20(71).png)
 
 
-
 ![image alt](https://github.com/Sweta941/E-Commerce-Data-Analysis-Using-MySQL-/blob/80946521006d33813cabe4c0bf0e3a4eda5ac8c6/Screenshot%20(76).png)
 
 
